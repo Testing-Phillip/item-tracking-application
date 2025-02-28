@@ -46,9 +46,6 @@ This C++ project implements an item-tracking application for the fictional Corne
    ```bash
    g++ -o CornerGrocer main.cpp
 
-
-#Questions:
-
 # Project Reflection and Analysis
 
 ## 1. Project Summary and Problem Solved
